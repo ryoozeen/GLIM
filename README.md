@@ -113,7 +113,7 @@
 <br>
 
 <img width="1030" height="1112" alt="image" src="https://github.com/user-attachments/assets/70f203b0-0526-43a2-875b-070ec58b3c53" />
-<img width="1084" height="394" alt="image (2)" src="https://github.com/user-attachments/assets/4d9607f3-20c8-49cf-a433-1acd1b590a30" />
+<img width="1200" height="394" alt="image (2)" src="https://github.com/user-attachments/assets/4d9607f3-20c8-49cf-a433-1acd1b590a30" />
 
 
 ---
