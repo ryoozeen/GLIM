@@ -1,0 +1,43 @@
+#include <string>
+#include <vector>
+using namespace std;
+
+int solution(vector<vector<int>> dots) {
+    int answer = 0;
+    
+    // x 좌표와 y 좌표의 최소값, 최대값 찾기
+    int minX = dots[0][0];                  // 첫 번째 점의 x 좌표로 초기화
+    int maxX = dots[0][0];
+    int minY = dots[0][1];                  // 첫 번째 점의 y 좌표로 초기화
+    int maxY = dots[0][1];
+    
+    // 모든 점을 순회하면서 최소값, 최대값 찾기
+    for (int i = 1; i < 4; i++) {
+        // x 좌표 비교
+        if (dots[i][0] < minX) {
+            minX = dots[i][0];
+        }
+        
+        if (dots[i][0] > maxX) {
+            maxX = dots[i][0];
+        }
+        
+        // y 좌표 비교
+        if (dots[i][1] < minY) {
+            minY = dots[i][1];
+        }
+        
+        if (dots[i][1] > maxY) {
+            maxY = dots[i][1];
+        }
+    }
+    
+    // 가로 길이와 세로 길이 계산
+    int width = maxX - minX;                    // 가로
+    int height = maxY - minY;                   // 세로
+    
+    // 직사각형 넓이 계산
+    answer = width * height;
+    
+    return answer;
+}

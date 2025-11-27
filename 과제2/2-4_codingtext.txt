@@ -1,0 +1,27 @@
+#include <string>
+#include <vector>
+using namespace std;
+
+vector<int> solution(vector<int> arr, vector<bool> flag) {
+    vector<int> answer;   // 자동 빈 배열
+    
+    // arr과 flag를 순회
+    for (int i = 0; i < arr.size(); i++) {
+        if (flag[i] == true) {
+            
+            // true인 경우: arr[i]를 arr[i] × 2번 추가
+            int count = arr[i] * 2;                 // 추가할 횟수
+            for (int j = 0; j < count; j++) {
+                answer.push_back(arr[i]);           // 뒤에 추가
+            }   
+        }
+        else {
+            // false인 경우: 마지막 arr[i]개 제거
+            for (int j = 0; j < arr[i]; j++) {
+                answer.pop_back();                  // 마지막 원소 제거
+            }
+        }
+    }
+    
+    return answer;
+}
