@@ -1,4 +1,4 @@
-# <img width="100" height="30" alt="그림 로고" src="https://github.com/user-attachments/assets/8d48f975-05ec-4cb1-ae53-fe0b8e18bf07" />  과제1 (유튜브 과제)
+# <img width="100" height="30" alt="그림 로고" src="https://github.com/user-attachments/assets/cf71ec7c-10dc-47ab-a8ed-deac317cf85b" />  과제1 (유튜브 과제)
 
 데모 영상은 [여기](https://youtu.be/BpLMW05Iywg?si=F9arZuCDkNXpBwYe)에서 확인할 수 있습니다.
 
@@ -112,8 +112,8 @@
 - 정원이 그리기 영역을 벗어나는 경우는 아래와 같이 전체 원이 표시되지 않아도 됩니다.
 <br>
 
-<img width="1030" height="1112" alt="image" src="https://github.com/user-attachments/assets/70f203b0-0526-43a2-875b-070ec58b3c53" />
-<img width="1031" height="374" alt="image (2)" src="https://github.com/user-attachments/assets/61f3b58d-a928-4957-815b-b07f4fcc4333" />
+<img width="1030" height="1112" alt="image" src="https://github.com/user-attachments/assets/ebfb41ff-c39c-4bf8-9adb-63988c8f407e" />
+<img width="1100" height="374" alt="image (2)" src="https://github.com/user-attachments/assets/61f3b58d-a928-4957-815b-b07f4fcc4333" />
 
 
 ---
@@ -146,34 +146,34 @@
 
 - **배경 생성 버튼 클릭**
 
-![1 배경 생성](https://github.com/user-attachments/assets/aac24cea-4da2-49d8-bbf2-abd04dcc5357)
+![01_배경 생성](https://github.com/user-attachments/assets/dae70737-f2f1-4066-8a08-384ef523ab16)
 <br><br><br>
 
 - **반지름, 가장자리 두께 입력 후 3점 생성 및 외접원 생성**
   
-![2 3점 생성 및 외접원 생성](https://github.com/user-attachments/assets/dc96e6dc-5571-403b-8596-098172a0093e)
+![02_ 3개의 점 생성 및 외접원 생성](https://github.com/user-attachments/assets/bfa6676b-606b-418f-ad49-4478646b1809)
 <br><br><br>
 
 - **원의 중심 좌표 표시**
 
-![3 중심점 표시](https://github.com/user-attachments/assets/f53840cc-0602-4746-bf7e-973e15904d15)
+![03_중심점 표시](https://github.com/user-attachments/assets/9e9ad66d-2bb5-444c-b0cf-535e64436786)
 <br><br><br>
 
 - **드래그**
 
-![4 드래그](https://github.com/user-attachments/assets/914e0514-e63d-48d8-b422-6f3c7191e2cb)
+![04_드래그](https://github.com/user-attachments/assets/9e75a981-0c5e-4c56-a9c5-aba804c62e5f)
 <br><br><br>
 
 - **랜덤 생성 버튼 클릭**
 
-![5 랜덤 생성](https://github.com/user-attachments/assets/410cb978-b061-4032-883d-8aeee8d25f10)
+![05_랜덤 생성](https://github.com/user-attachments/assets/ead0ade0-6195-4f49-bbe7-f864f374a38f)
 <br><br><br>
 
 - **초기화 버튼 클릭**
 
-![6 초기화](https://github.com/user-attachments/assets/606b1be1-2179-4d2e-ba28-5e91b7e5990f)
+![06_초기화](https://github.com/user-attachments/assets/c76808ac-3e16-45c6-83d1-fe1dc0d20554)
 <br><br><br>
 
 - **반지름 미입력 시 알림창**
 
-![7 반지름 미입력](https://github.com/user-attachments/assets/a845a965-114c-418c-9dcc-7f55d6f689b8)
+![07_반지름 미입력](https://github.com/user-attachments/assets/8187caad-d12d-417f-b9d3-c586f2475ddf)
